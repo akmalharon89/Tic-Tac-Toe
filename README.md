@@ -4,11 +4,11 @@ A simple command-line Tic-Tac-Toe game in Python where two players (X and O) tak
 **How to Play**
 - Players enter a number (1-9) to mark their position on the board
 
- 1 | 2 | 3
- ---------
- 4 | 5 | 6
- ---------
- 7 | 8 | 9
+1 | 2 | 3
+---------
+4 | 5 | 6
+---------
+7 | 8 | 9
 
 - The game ends when a player wins by aligning three marks or the board is full (tie).
 - After the game, players can choose to play again.
